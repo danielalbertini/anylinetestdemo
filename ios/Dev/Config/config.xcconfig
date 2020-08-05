@@ -1,5 +1,5 @@
 #include "../../Config/config.xcconfig"
 
 MAIN_STORY_BOARD = LaunchApp
-BUNDLE_DISPLAY_NAME = Dev - AnylineTestDemo
+BUNDLE_DISPLAY_NAME = Dev - Anyline Test Demo
 BUNDLE_IDENTIFIER_APPEND = .developerapp
