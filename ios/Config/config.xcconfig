@@ -1,6 +1,6 @@
 PRODUCT_BUNDLE_IDENTIFIER = com.anyline.test.howto.mendix
 
-BUNDLE_DISPLAY_NAME = AnylineTestDemo
+BUNDLE_DISPLAY_NAME = Anyline Test Demo
 BUNDLE_IDENTIFIER = com.anyline.test.howto.mendix
 
 RUNTIME_URL = http:\/\/localhost:8080
